@@ -1,17 +1,14 @@
-   [
-     {
-       "id": 1,
-       "text": "Small moments of gratitude make big differences.",
-       "author": "Grateful"
-     },
-     {
-       "id": 2,
-       "text": "You don't need a perfect day to find one good thing in it.",
-       "author": "Grateful"
-     },
-     {
-       "id": 3,
-       "text": "What you notice grows. Notice the good.",
-       "author": "Grateful"
-     }
-   ]
+[
+  { "id": 1, "text": "Small moments of gratitude make big differences.", "author": "Grateful" },
+  { "id": 2, "text": "Every day holds something worth appreciating.", "author": "Grateful" },
+  { "id": 3, "text": "Gratitude turns what we have into enough.", "author": "Grateful" },
+  { "id": 4, "text": "Notice the good - it's usually right in front of you.", "author": "Grateful" },
+  { "id": 5, "text": "A grateful heart finds reasons, not excuses.", "author": "Grateful" },
+  { "id": 6, "text": "The little things are, in fact, the big things.", "author": "Grateful" },
+  { "id": 7, "text": "Some days all you need is to notice one good thing.", "author": "Grateful" },
+  { "id": 8, "text": "Joy grows where gratitude is planted.", "author": "Grateful" },
+  { "id": 9, "text": "You don't need a reason to feel thankful - just a moment.", "author": "Grateful" },
+  { "id": 10, "text": "Slow down. Something today deserves your thanks.", "author": "Grateful" },
+  { "id": 11, "text": "What you appreciate, appreciates.", "author": "Grateful" },
+  { "id": 12, "text": "Peace begins with a thankful mind.", "author": "Grateful" }
+]
